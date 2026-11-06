@@ -1,0 +1,10 @@
+# licensed data
+data/
+*.csv
+*.xlsx
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
